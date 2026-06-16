@@ -20,5 +20,10 @@ LinkedIn Clone is a template for a LinkedIn-like web page built using HTML, CSS,
 ## How to Contribute
 We welcome contributions! Report bugs or suggest improvements by creating an issue. Submit pull requests for enhancements.
 
-## Contact
-For questions or inquiries, contact me at [vimalansenthil@gmail.com](mailto:vimalansenthil@gmail.com).
+## Author & Contact
+
+Developed and maintained by **Lakshay Gupta**:
+*   **Email**: [lakshayg136@gmail.com](mailto:lakshayg136@gmail.com)
+*   **GitHub**: [@Lakshayg136](https://github.com/Lakshayg136)
+*   **LinkedIn**: [/in/lakshaygupta2121](https://www.linkedin.com/in/lakshaygupta2121/)
+*   **Portfolio**: [personal-portfolio-tau-hazel-19.vercel.app](https://personal-portfolio-tau-hazel-19.vercel.app/)
